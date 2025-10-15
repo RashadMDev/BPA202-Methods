@@ -1,0 +1,14 @@
+/Users/rashad/Desktop/BPA202-Methods/Methods/Methods/bin/Debug/net9.0/Methods
+/Users/rashad/Desktop/BPA202-Methods/Methods/Methods/bin/Debug/net9.0/Methods.deps.json
+/Users/rashad/Desktop/BPA202-Methods/Methods/Methods/bin/Debug/net9.0/Methods.runtimeconfig.json
+/Users/rashad/Desktop/BPA202-Methods/Methods/Methods/bin/Debug/net9.0/Methods.dll
+/Users/rashad/Desktop/BPA202-Methods/Methods/Methods/bin/Debug/net9.0/Methods.pdb
+/Users/rashad/Desktop/BPA202-Methods/Methods/Methods/obj/Debug/net9.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rashad/Desktop/BPA202-Methods/Methods/Methods/obj/Debug/net9.0/Methods.AssemblyInfoInputs.cache
+/Users/rashad/Desktop/BPA202-Methods/Methods/Methods/obj/Debug/net9.0/Methods.AssemblyInfo.cs
+/Users/rashad/Desktop/BPA202-Methods/Methods/Methods/obj/Debug/net9.0/Methods.csproj.CoreCompileInputs.cache
+/Users/rashad/Desktop/BPA202-Methods/Methods/Methods/obj/Debug/net9.0/Methods.dll
+/Users/rashad/Desktop/BPA202-Methods/Methods/Methods/obj/Debug/net9.0/refint/Methods.dll
+/Users/rashad/Desktop/BPA202-Methods/Methods/Methods/obj/Debug/net9.0/Methods.pdb
+/Users/rashad/Desktop/BPA202-Methods/Methods/Methods/obj/Debug/net9.0/Methods.genruntimeconfig.cache
+/Users/rashad/Desktop/BPA202-Methods/Methods/Methods/obj/Debug/net9.0/ref/Methods.dll
