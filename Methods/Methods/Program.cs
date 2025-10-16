@@ -1,4 +1,6 @@
-﻿namespace Methods;
+﻿using System.Runtime.CompilerServices;
+
+namespace Methods;
 
 class Program
 {
@@ -48,6 +50,40 @@ class Program
         // Console.WriteLine(Sum(100.5, 200.5));
 
         #endregion
+
+        #region Params Keyword call
+        // System.Console.WriteLine(ArrSum(100, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20));
+        #endregion
+
+        #region ref out keyword call
+        //ref keyword
+
+        // int a = 10;
+        // int b = 20;
+
+        // int result = Sum(ref a, b);
+        // Console.WriteLine($"Result: {result}");
+        // Console.WriteLine($"a: {a} b: {b}");
+
+
+
+        //out keyword
+
+        // int a, b;
+
+        // SetValues(out a, out b);
+        // Console.WriteLine($"a: {a} b: {b}");
+
+
+
+        //ref out together
+
+        // int a = 50, b = 95;
+        // Calculate(ref a, b, out int sum, out int multiply);
+        // Console.WriteLine($"a: {a} b: {b} sum: {sum} multiply: {multiply}");
+
+        #endregion
+
     }
 
     #region Method with int return type
@@ -97,4 +133,46 @@ class Program
     //     return a + b + c;
     // }
     #endregion
+
+    #region Params Keyword
+    // public static int ArrSum(params int[] numbers)
+    // {
+    //     int sum = default;
+    //     foreach (int number in numbers)
+    //     {
+    //         sum += number;
+    //     }
+    //     return sum;
+    // }
+    #endregion
+
+    #region ref out keyword
+    //ref keyword
+    // public static int Sum(ref int a, int b)
+    // {
+    //     return a += b;
+    // }
+
+
+    //out keyword
+
+    // public static void SetValues(out int a, out int b)
+    // {
+    //     a = 100;
+    //     b = 200;
+    // }
+
+    //ref out together
+
+    // public static int Calculate(ref int a, int b, out int sum, out int multiply)
+    // {
+    //     sum = a + b;
+    //     multiply = a * b;
+    //     a += 10;
+    //     b += 20;
+    //     return b;
+    // }
+
+    #endregion
+
 }

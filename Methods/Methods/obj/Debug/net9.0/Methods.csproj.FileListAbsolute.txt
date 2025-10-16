@@ -12,3 +12,4 @@
 /Users/rashad/Desktop/BPA202-Methods/Methods/Methods/obj/Debug/net9.0/Methods.pdb
 /Users/rashad/Desktop/BPA202-Methods/Methods/Methods/obj/Debug/net9.0/Methods.genruntimeconfig.cache
 /Users/rashad/Desktop/BPA202-Methods/Methods/Methods/obj/Debug/net9.0/ref/Methods.dll
+/Users/rashad/Desktop/BPA202-Methods/Methods/Methods/obj/Debug/net9.0/Methods.sourcelink.json
